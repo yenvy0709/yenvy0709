@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Vy. My full name is Nguyen Ngoc Yen Vy
+I want to become a mobile and web developer
+
 <!--
 **yenvy0709/yenvy0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
